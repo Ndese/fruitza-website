@@ -1,0 +1,58 @@
+body {
+  font-family: 'ARIAL BLACK', Times, serif, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: hsla(108, 98%, 51%, 0.959);
+  color: #ec0707f6;
+  text-align: center;
+}
+
+header {
+  background-color: #181a18;
+  color: white;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+  color: white;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration:hotpink;
+  font-size: 24px;
+}
+
+section {
+  padding: 40px;
+  border-bottom: 2cm solid hsl(187, 94%, 51%);
+}
+
+button {
+  background: #ff6600;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ff4500;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  padding: 20px;
+}
